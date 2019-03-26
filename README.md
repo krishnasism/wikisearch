@@ -17,3 +17,5 @@ pip install beautifulsoup4
 python run.py
 ```
 
+### Example
+This module is implemented in a project by [Surabhi Samaddar](https://github.com/surabhi5/instant-ppt), where she generates a PowerPoint presentation using text summarization - the data is gathered from [Wikipedia](http://wikipedia.org)
